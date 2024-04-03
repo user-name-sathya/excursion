@@ -6,26 +6,26 @@ body {
 
 /* HEADINGS */
 
-.header--main{
+.header--main {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
 
-.header--secondary{
+.header--secondary {
     font-weight: 300;
     font-size: 42px;
     color: #ffffff;
 }
 
-.header--sub-header{
+.header--sub-header {
     font-size: 21px;
     color:grey;
 }
 
 /* links */
 
-.link-cta{
+.link--cta {
     font-size: 16px;
     color: aquamarine;
 }
